@@ -33,8 +33,9 @@ This project simulates a real-world investor's workflow using **raw CSV files fr
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](./![Dashboard](https://github.com/user-attachments/assets/95ec0d55-0c21-44e8-8b77-a2140901cabf)
+![View-Dashboard](![Dashboard](https://user-images.githubusercontent.com/12345678/yourimage.png)
 )
+
 
 
 ---
