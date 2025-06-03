@@ -33,8 +33,8 @@ This project simulates a real-world investor's workflow using **raw CSV files fr
 
 ## 📊 Dashboard Preview
 
-![Crypto Dashboard](./![Dashboard](https://github.com/user-attachments/assets/b8790122-e7bc-4e38-979a-e51799c703db)
-)
+![Crypto Dashboard](./https://github.com/Girisudhan36/Cryptocurrency-Investment-Portfolio/blob/main/Crypto%20Dashboard.pdf)
+
 
 
 ---
