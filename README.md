@@ -33,8 +33,9 @@ This project simulates a real-world investor's workflow using **raw CSV files fr
 
 ## 📊 Dashboard Preview
 
-![Crypto Excel Dashboard](![Dashboard](https://github.com/user-attachments/assets/69d4d2d9-efdb-4ee5-bb3a-7479f5990739)
-)  
+![Crypto Dashboard](./![Dashboard](https://github.com/user-attachments/assets/b8790122-e7bc-4e38-979a-e51799c703db)
+)
+
 
 ---
 
@@ -83,6 +84,6 @@ BTC | ETH | SOL | ADA | LINK | AVAX | XLM | UNI | DOT | LTC
 🎓 BSc Agriculture | Aspiring Data Analyst  
 📊 Excel | SQL | Power BI | Finance Projects  
 🌱 Learning by doing.  
-🔗 [LinkedIn Profile](https://www.linkedin.com) 
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/girisudhan) 
 
 ---
