@@ -2,9 +2,10 @@
 
 ![Excel Dashboard](https://img.shields.io/badge/Excel-Dashboard-green) ![Status](https://img.shields.io/badge/Project-Complete-blue) ![Level](https://img.shields.io/badge/Skill-Advanced-orange)
 
-This is a fully functional **Crypto Investment Portfolio Tracker** built in **Advanced Excel**.
+This is a fully functional **Crypto Investment Portfolio Tracker** built in **MS Excel**.
 
-It tracks trades, calculates returns using advanced formulas, and displays key metrics through **interactive dashboards and charts**.  
+A real-world Excel project that tracks and analyzes a personal crypto investment portfolio using advanced Excel techniques. It includes live trade logs, ROI calculations, DCA strategy, and dynamic charts.
+
 This project simulates a real-world investor's workflow using **raw CSV files from Binance** and **live price tracking from CoinMarketCap**.
 
 ---
@@ -33,7 +34,8 @@ This project simulates a real-world investor's workflow using **raw CSV files fr
 
 ## 📊 Dashboard Preview
 
-![View-Dashboard](https://github.com/Girisudhan36/Cryptocurrency-Investment-Portfolio/issues/1#issue-3114091757)
+ !        
+[View-Dashboard](https://github.com/Girisudhan36/Cryptocurrency-Investment-Portfolio/issues/1#issue-3114091757)
 
 
 
@@ -79,10 +81,17 @@ BTC | ETH | SOL | ADA | LINK | AVAX | XLM | UNI | DOT | LTC
 
 ---
 
+## 🧠 What I Learned
+- Building investment models in Excel
+- Tracking multiple assets using dynamic formulas
+- Visual storytelling through dashboards
+- Financial metrics like ROI, DCA, and allocation %
+---
+
 ## 👨‍💻 About Me
 
 **Giri Sudhan S**  
-🎓 BSc Agriculture | Aspiring Data Analyst  
+🎓 Agriculture graduate |  Data Analyst  
 📊 Excel | SQL | Power BI | Finance Projects  
 🌱 Learning by doing.  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/girisudhan) 
