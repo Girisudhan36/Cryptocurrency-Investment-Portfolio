@@ -1,4 +1,4 @@
-# 📈 Cryptocurrency Portfolio Tracker (Excel Project)
+# 📈 Cryptocurrency Portfolio Tracker (MS Excel Project)
 
 ![Excel Dashboard](https://img.shields.io/badge/Excel-Dashboard-green) ![Status](https://img.shields.io/badge/Project-Complete-blue) ![Level](https://img.shields.io/badge/Skill-Advanced-orange)
 
@@ -34,9 +34,9 @@ This project simulates a real-world investor's workflow using **raw CSV files fr
 
 ## 📊 Dashboard Preview
 
- !        
+  
+        
 [View-Dashboard](https://github.com/Girisudhan36/Cryptocurrency-Investment-Portfolio/issues/1#issue-3114091757)
-
 
 
 
@@ -66,7 +66,9 @@ This project simulates a real-world investor's workflow using **raw CSV files fr
 
 ## 📌 Coins Tracked
 
-BTC | ETH | SOL | ADA | LINK | AVAX | XLM | UNI | DOT | LTC  
+BTC | ETH | SOL | ADA | LINK | 
+AVAX | XLM | UNI | DOT | LTC  
+
 (*with live price and historical trades*)
 
 ---
@@ -85,7 +87,8 @@ BTC | ETH | SOL | ADA | LINK | AVAX | XLM | UNI | DOT | LTC
 - Building investment models in Excel
 - Tracking multiple assets using dynamic formulas
 - Visual storytelling through dashboards
-- Financial metrics like ROI, DCA, and allocation %
+- Financial metrics like ROI,DCA and allocation %
+
 ---
 
 ## 👨‍💻 About Me
@@ -94,6 +97,7 @@ BTC | ETH | SOL | ADA | LINK | AVAX | XLM | UNI | DOT | LTC
 🎓 Agriculture graduate |  Data Analyst  
 📊 Excel | SQL | Power BI | Finance Projects  
 🌱 Learning by doing.  
+
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/girisudhan) 
 
 ---
